@@ -6,4 +6,4 @@ Let's swing in the world of code!
 
 ![Tech stack](https://skillicons.dev/icons?i=typescript,javascript,react,vue,nodejs,npm,webpack,vite,html,css,less,sass,ai,vscode,github,figma&perline=8&theme=light)
 
-<img height="200" src="https://github.com/ChanceYu/ChanceYu/blob/master/assets/hang.gif">
+<img width="181" height="200" src="https://github.com/ChanceYu/ChanceYu/blob/master/assets/hang.gif">
