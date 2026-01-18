@@ -1,6 +1,6 @@
 ##### About
 
-- 💡 Senior Frontend Engineer (Expert), AI-Powered Development (Daily Use), Fullstack Developer (Learning)
+- 💡 Frontend Engineer (Expert), AI-Powered Development (Daily Use), Fullstack Developer (Learning)
 - 📫 Email: yuboier@gmail.com
 
 ##### Tech Stack
